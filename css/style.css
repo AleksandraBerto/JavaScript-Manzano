@@ -1,0 +1,12 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button{
+    padding: 10px;
+    font-weight: 600;
+    border-radius: 10px;
+    border: none;
+    background-color: purple;
+    color: white;
+}
